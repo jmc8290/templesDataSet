@@ -4,7 +4,7 @@ Curated dataset of temples of the Church of Jesus Christ of Latter-Day Saints. C
 ### Included Files
 DatasetCuration.ipynb is the notebook where the data was pulled and curated
 
-templeDimensionElevation.csv is the final dataset. Includes the following columns
+templeDimensionElevation.csv is the final dataset. Includes the following columns:
 ---------------------------------------------------------------------------------------------------------------
 Temple             (String)  Name of temple
 
@@ -19,4 +19,5 @@ Square Footage     (Int)     Square footage of the interior of the temple (inclu
 Acreage            (Float)   Acreage of the plot on which the temple is built
 
 Elevation (Feet)   (Float)   Elevation (in feet) where the temple is built
+
 --------------------------------------------------------------------------------------------------------------
